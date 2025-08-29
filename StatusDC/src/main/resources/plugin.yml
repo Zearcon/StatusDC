@@ -1,0 +1,14 @@
+name: StatusDC
+version: '1.0'
+main: Zeaarcon.com.StatusDC.StatusDC
+api-version: '1.21'
+authors: [ Zearcon ]
+commands:
+  status:
+    description: Управление статусом (stream, record, off, reload)
+    usage: /status <stream|record|off|reload>
+
+permissions:
+  status.reload:
+    description: Разрешение на перезагрузку конфига
+    default: op
