@@ -1,4 +1,4 @@
-##En_Us
+English
 # StatusDC
 This plugin adds statuses to tabs and chats. It will show in which dimension player with a color and also allows to turn on streaming or record mode.
 ## Features
@@ -23,7 +23,9 @@ The plugin can be integrated with the TAB via PlaceholderAPI.
 1. Install .jar from Releases.
 2. Place it in the server’s plugins folder.
 3. Configure the config.yml file and enter the command /status reload.
-##Ru_ru
+
+----------------------------------------------------------------------
+Russia
 # StatusDC
 Этот плагин добавляет статусы в таб-лист и чат. Он показывает, в каком измерении находится игрок, с указанием цвета, а также позволяет включать статус стрима или записи.
 ## Features
